@@ -1,1 +1,5 @@
 frame_id,source,phenomenon,affected_field,effect_on_label
+D02,real_IR,"Kính trong phản xạ đèn LED trên tròng, không phân biệt được mắt mở hay nhắm","eye_left, eye_right","Cả hai mắt unknown, không ghi closed; glasses = clear"
+D04,real_IR,NIR chỉ có độ sáng: vô lăng quanh tay phải lẫn vào nền,hand (right).on_wheel,"Không thấy tay có chạm vô lăng không nên ghi unknown, không đoán"
+S03_ir,IR_sim,"Ghế rear_right gần như đen trên RGB (84% pixel tối) nhưng rõ hơn trên IR-sim (21%), theo rgb_ir_diff.py",loại ghế ở rear_right,"Nhận loại ghế theo hình dạng trên IR-sim, không theo màu (4.4-4)"
+S06_ir,IR_sim,"Hàng giữa cháy sáng ở cả RGB (11% pixel bão hòa) lẫn IR-sim (12%), do cảnh dựng, không phải chói IR thật",vùng rear_middle,Không ghi hiện tượng chói IR thật cho ảnh S##; chỗ không thấy rõ thì unknown
