@@ -41,10 +41,10 @@ D06.png,hand,on_wheel,khác giá trị (IoU=0.89),no,unknown,,,cần mở ảnh 
 D06.png,face13,mouth_right.occluded,khác cờ,1,0,,,cần mở ảnh cùng bạn để quyết
 S01_rgb.png,object,type,khác giá trị (IoU=0.90),bag,other,,,cần mở ảnh cùng bạn để quyết
 S02_ir.png,infant_seat,facing,khác giá trị (IoU=0.96),rear,front,,,cần mở ảnh cùng bạn để quyết
-S02_ir.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,mine,4.2 + GUIDE §3 (face phải đi với person; hình trẻ em không gán),"Bạn xóa box face không có person, báo coach"
-S02_rgb.png,child_seat,occupied,khác giá trị (IoU=0.87),unknown,yes,mine,4.1 + 4.8 (child_seat không có giá trị yes),"Bạn sửa occupied=yes; thấy hình trẻ em thì báo coach, không gán (GUIDE §3)"
+S02_ir.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,ambiguous,4.8 (coach đã cho thêm occupied=yes),cần mở ảnh cùng bạn; hỏi coach có vẽ face cho trẻ ngồi trong child_seat không
+S02_rgb.png,child_seat,occupied,khác giá trị (IoU=0.87),unknown,yes,ambiguous,4.8 (coach đã cho thêm occupied=yes),cần mở ảnh cùng bạn; hỏi coach có vẽ face cho trẻ ngồi trong child_seat không
 S02_rgb.png,infant_seat,facing,khác giá trị (IoU=0.95),rear,front,,,cần mở ảnh cùng bạn để quyết
-S02_rgb.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,mine,4.2 + GUIDE §3 (face phải đi với person; hình trẻ em không gán),"Bạn xóa box face không có person, báo coach"
+S02_rgb.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,ambiguous,4.8 (coach đã cho thêm occupied=yes),cần mở ảnh cùng bạn; hỏi coach có vẽ face cho trẻ ngồi trong child_seat không
 S03_ir.png,infant_seat,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,,,cần mở ảnh cùng bạn để quyết
 S03_ir.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,,,cần mở ảnh cùng bạn để quyết
 S03_rgb.png,frame_meta,camera_blocked,khác giá trị,no,yes,mine,4.1 (camera_blocked=yes chỉ khi không thấy cabin),"Bạn đổi thành no: chính bạn đã vẽ box trên ảnh này, S03_ir cùng cảnh ghi no"

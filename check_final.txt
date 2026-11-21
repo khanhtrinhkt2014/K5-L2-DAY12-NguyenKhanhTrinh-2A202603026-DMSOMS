@@ -3,3 +3,4 @@ File: export_final.zip
 Kết quả: 0 lỗi, 0 cảnh báo. Cảnh báo cần bạn tự xét, không tự động là sai.
 
 Ghi chú: export_final.zip gộp từ 2 file export CVAT for images 1.1 của 2 task trong cùng project (oms.zip: S01–S08, 16 ảnh; dms.zip: D01–D06, 6 ảnh). Chỉ ghép các thẻ <image>, không sửa nhãn hay thuộc tính.
+Ghi chú: chạy với scripts/cabin_schema.py đã thêm child_seat.occupied = yes theo hướng dẫn của Lab Coach.
