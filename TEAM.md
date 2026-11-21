@@ -6,7 +6,7 @@ Mã bộ ảnh: **G05** · Hình thức: nhóm 3 người · xoay vòng review A
 |---|---|---|---|---|
 | Nguyễn Khánh Trình (A) | 2A202603026 | có | B: Trịnh Vinh Khánh | 7 / 79 (4 mine, 3 ambiguous) |
 | Trịnh Vinh Khánh (B) | 2A202603220 | có | C: Nguyễn Thiên Phúc | |
-| Nguyễn Thiên Phúc (C) | 2A202603339 | có / không | A: Nguyễn Khánh Trình | |
+| Nguyễn Thiên Phúc (C) | 2A202603339 | có | A: Nguyễn Khánh Trình | 52 |
 
 Ca hai bạn vẫn không thống nhất và đã hỏi coach (ghi tên ảnh + đối tượng):
 
