@@ -1,0 +1,80 @@
+﻿image,label,field,issue,mine,peer,verdict,guideline_rule,action
+D02.png,face,gaze_zone,khác giá trị (IoU=0.78),other,road,,,cần mở ảnh cùng bạn để quyết
+D02.png,hand,on_wheel,khác giá trị (IoU=0.73),no,unknown,,,cần mở ảnh cùng bạn để quyết
+D02.png,hand,on_wheel,khác giá trị (IoU=0.77),no,unknown,,,cần mở ảnh cùng bạn để quyết
+D02.png,person,seatbelt,khác giá trị (IoU=0.80),unknown,worn_correct,,,cần mở ảnh cùng bạn để quyết
+D02.png,face13,left_eye_outer.occluded,khác cờ,0,1,,,cần mở ảnh cùng bạn để quyết
+D02.png,face13,right_eye_inner.occluded,khác cờ,0,1,,,cần mở ảnh cùng bạn để quyết
+D03.png,hand,on_wheel,khác giá trị (IoU=0.77),no,unknown,,,cần mở ảnh cùng bạn để quyết
+D03.png,hand,side,khác giá trị (IoU=0.77),left,right,,,cần mở ảnh cùng bạn để quyết
+D03.png,hand,on_wheel,khác giá trị (IoU=0.62),no,unknown,,,cần mở ảnh cùng bạn để quyết
+D03.png,hand,side,khác giá trị (IoU=0.62),right,left,,,cần mở ảnh cùng bạn để quyết
+D03.png,face13,left_eye_outer.occluded,khác cờ,1,0,,,cần mở ảnh cùng bạn để quyết
+D03.png,face13,left_eye_outer.outside,khác cờ,0,1,,,cần mở ảnh cùng bạn để quyết
+D03.png,face13,left_eye_inner.occluded,khác cờ,1,0,,,cần mở ảnh cùng bạn để quyết
+D03.png,face13,left_eye_inner.outside,khác cờ,0,1,,,cần mở ảnh cùng bạn để quyết
+D03.png,face13,left_eye_upper.occluded,khác cờ,1,0,,,cần mở ảnh cùng bạn để quyết
+D03.png,face13,left_eye_upper.outside,khác cờ,0,1,,,cần mở ảnh cùng bạn để quyết
+D03.png,face13,left_eye_lower.occluded,khác cờ,1,0,,,cần mở ảnh cùng bạn để quyết
+D03.png,face13,left_eye_lower.outside,khác cờ,0,1,,,cần mở ảnh cùng bạn để quyết
+D03.png,face13,mouth_right.occluded,khác cờ,1,0,,,cần mở ảnh cùng bạn để quyết
+D03.png,face13,mouth_right.outside,khác cờ,0,1,,,cần mở ảnh cùng bạn để quyết
+D04.png,hand,on_wheel,khác giá trị (IoU=0.67),no,unknown,,,cần mở ảnh cùng bạn để quyết
+D04.png,hand,on_wheel,khác giá trị (IoU=0.78),no,unknown,,,cần mở ảnh cùng bạn để quyết
+D05.png,face,glasses,khác giá trị (IoU=0.68),clear,unknown,,,cần mở ảnh cùng bạn để quyết
+D05.png,hand,on_wheel,khác giá trị (IoU=0.54),no,unknown,,,cần mở ảnh cùng bạn để quyết
+D05.png,hand,on_wheel,khác giá trị (IoU=0.75),no,unknown,,,cần mở ảnh cùng bạn để quyết
+D05.png,face13,left_eye_outer.occluded,khác cờ,1,0,,,cần mở ảnh cùng bạn để quyết
+D05.png,face13,left_eye_outer.outside,khác cờ,0,1,,,cần mở ảnh cùng bạn để quyết
+D05.png,face13,left_eye_inner.occluded,khác cờ,1,0,,,cần mở ảnh cùng bạn để quyết
+D05.png,face13,left_eye_inner.outside,khác cờ,0,1,,,cần mở ảnh cùng bạn để quyết
+D05.png,face13,left_eye_upper.occluded,khác cờ,1,0,,,cần mở ảnh cùng bạn để quyết
+D05.png,face13,left_eye_upper.outside,khác cờ,0,1,,,cần mở ảnh cùng bạn để quyết
+D05.png,face13,left_eye_lower.occluded,khác cờ,1,0,,,cần mở ảnh cùng bạn để quyết
+D05.png,face13,left_eye_lower.outside,khác cờ,0,1,,,cần mở ảnh cùng bạn để quyết
+D05.png,face13,mouth_right.occluded,khác cờ,1,0,,,cần mở ảnh cùng bạn để quyết
+D05.png,face13,mouth_right.outside,khác cờ,0,1,,,cần mở ảnh cùng bạn để quyết
+D06.png,person,seatbelt,khác giá trị (IoU=0.93),worn_correct,unknown,,,cần mở ảnh cùng bạn để quyết
+D06.png,face,glasses,khác giá trị (IoU=0.79),none,unknown,,,cần mở ảnh cùng bạn để quyết
+D06.png,hand,on_wheel,khác giá trị (IoU=0.69),no,unknown,,,cần mở ảnh cùng bạn để quyết
+D06.png,hand,on_wheel,khác giá trị (IoU=0.89),no,unknown,,,cần mở ảnh cùng bạn để quyết
+D06.png,face13,mouth_right.occluded,khác cờ,1,0,,,cần mở ảnh cùng bạn để quyết
+S01_rgb.png,object,type,khác giá trị (IoU=0.90),bag,other,,,cần mở ảnh cùng bạn để quyết
+S02_ir.png,infant_seat,facing,khác giá trị (IoU=0.96),rear,front,,,cần mở ảnh cùng bạn để quyết
+S02_ir.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,mine,4.2 + GUIDE §3 (face phải đi với person; hình trẻ em không gán),"Bạn xóa box face không có person, báo coach"
+S02_rgb.png,child_seat,occupied,khác giá trị (IoU=0.87),unknown,yes,mine,4.1 + 4.8 (child_seat không có giá trị yes),"Bạn sửa occupied=yes; thấy hình trẻ em thì báo coach, không gán (GUIDE §3)"
+S02_rgb.png,infant_seat,facing,khác giá trị (IoU=0.95),rear,front,,,cần mở ảnh cùng bạn để quyết
+S02_rgb.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,mine,4.2 + GUIDE §3 (face phải đi với person; hình trẻ em không gán),"Bạn xóa box face không có person, báo coach"
+S03_ir.png,infant_seat,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,,,cần mở ảnh cùng bạn để quyết
+S03_ir.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,,,cần mở ảnh cùng bạn để quyết
+S03_rgb.png,frame_meta,camera_blocked,khác giá trị,no,yes,mine,4.1 (camera_blocked=yes chỉ khi không thấy cabin),"Bạn đổi thành no: chính bạn đã vẽ box trên ảnh này, S03_ir cùng cảnh ghi no"
+S03_rgb.png,infant_seat,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,,,cần mở ảnh cùng bạn để quyết
+S03_rgb.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,,,cần mở ảnh cùng bạn để quyết
+S04_ir.png,child_seat,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,,,cần mở ảnh cùng bạn để quyết
+S04_ir.png,child_seat,occupied,khác giá trị (IoU=0.91),no,unknown,,,cần mở ảnh cùng bạn để quyết
+S04_ir.png,infant_seat,box,chỉ có ở peer (hoặc IoU thấp),,,,,cần mở ảnh cùng bạn để quyết
+S04_rgb.png,child_seat,occupied,khác giá trị (IoU=0.89),no,unknown,,,cần mở ảnh cùng bạn để quyết
+S04_rgb.png,child_seat,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,,,cần mở ảnh cùng bạn để quyết
+S04_rgb.png,infant_seat,box,chỉ có ở peer (hoặc IoU thấp),,,,,cần mở ảnh cùng bạn để quyết
+S05_ir.png,object,type,khác giá trị (IoU=0.93),bag,other,,,cần mở ảnh cùng bạn để quyết
+S05_ir.png,face,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.49,,,,cần mở ảnh cùng bạn để quyết
+S05_ir.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,,,cần mở ảnh cùng bạn để quyết
+S05_rgb.png,object,type,khác giá trị (IoU=0.89),bag,other,,,cần mở ảnh cùng bạn để quyết
+S05_rgb.png,person,seatbelt,khác giá trị (IoU=0.98),not_worn,unknown,,,cần mở ảnh cùng bạn để quyết
+S06_ir.png,face,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.32,,,,cần mở ảnh cùng bạn để quyết
+S06_ir.png,infant_seat,facing,khác giá trị (IoU=0.95),front,rear,,,cần mở ảnh cùng bạn để quyết
+S06_ir.png,person,seat,khác giá trị (IoU=0.90),rear_left,rear_right,mine,4.4-3 (ghế theo xe) + nhất quán cặp rgb/ir,Bạn sửa rear_right -> rear_left như S06_rgb của bạn; rear_right đang trùng ghế với infant_seat
+S06_ir.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,,,cần mở ảnh cùng bạn để quyết
+S06_rgb.png,frame_meta,camera_blocked,khác giá trị,no,yes,mine,4.1,Bạn đổi thành no (cùng lý do như S03_rgb)
+S06_rgb.png,infant_seat,facing,khác giá trị (IoU=0.97),front,rear,,,cần mở ảnh cùng bạn để quyết
+S06_rgb.png,face,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.29,,,,cần mở ảnh cùng bạn để quyết
+S06_rgb.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,,,cần mở ảnh cùng bạn để quyết
+S07_ir.png,object,type,khác giá trị (IoU=0.88),bag,other,,,cần mở ảnh cùng bạn để quyết
+S07_rgb.png,object,type,khác giá trị (IoU=0.88),bag,other,,,cần mở ảnh cùng bạn để quyết
+S07_rgb.png,infant_seat,seat,khác giá trị (IoU=0.86),rear_middle,rear_right,mine,4.4-3 + nhất quán cặp rgb/ir,Bạn sửa rear_right -> rear_middle như S07_ir của bạn
+S08_ir.png,object,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,,,cần mở ảnh cùng bạn để quyết
+S08_ir.png,face,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.43,,,,cần mở ảnh cùng bạn để quyết
+S08_ir.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,,,cần mở ảnh cùng bạn để quyết
+S08_rgb.png,face,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.43,,,,cần mở ảnh cùng bạn để quyết
+S08_rgb.png,object,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,,,cần mở ảnh cùng bạn để quyết
+S08_rgb.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,,,cần mở ảnh cùng bạn để quyết
